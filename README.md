@@ -15,4 +15,3 @@ A repository with which to practice using git.
 
 > Chocolate
 
-ahhyun zzang
