@@ -4,9 +4,13 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
+> Geon Soo Park
 
 
 ### What is your favorite color?
 
-> Answer goes hereTest
+> Blue
+
+### What is your favorite ice cream?
+
+> Chocolate
